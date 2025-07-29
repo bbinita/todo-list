@@ -22,19 +22,33 @@ A simple and intuitive To-Do List application built with React. This application
 
 to-do-list-app/
 ├── public/
+
 │   └── index.html
+
 ├── src/
-│   ├── App.js
-│   ├── index.js
+
+│   ├── App.jsx
+
+│   ├── index.jsx
+
 │   ├── Components/
-│   │   ├── ToDoInput.js
-│   │   ├── ToDoItem.js
-│   │   └── ToDoFilter.js
+
+│   │   ├── ToDoInput.jsx
+
+│   │   ├── ToDoItem.jsx
+
+│   │   └── ToDoFilter.jsx
+
 │   └── (optional) styles/
+
 │       └── App.css (or similar stylesheet)
+
 ├── .gitignore
+
 ├── package.json
+
 ├── package-lock.json
+
 └── README.md
 
 <img width="1796" height="646" alt="Screenshot 2025-07-29 150917" src="https://github.com/user-attachments/assets/d7dca16f-5c5c-459f-bcc7-3689a60c76c1" />
